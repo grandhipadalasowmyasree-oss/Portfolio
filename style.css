@@ -132,3 +132,15 @@ section h2{
     text-align:center;
     margin-top:15px;
 }
+/* CONTACT LINKS FIX */
+.contact-box a{
+    color:#00e5ff !important;
+    text-decoration:underline;
+    pointer-events:auto;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.contact-box a:hover{
+    color:#ffffff !important;
+}
