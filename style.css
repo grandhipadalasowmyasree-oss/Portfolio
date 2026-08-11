@@ -144,3 +144,15 @@ section h2{
 .contact-box a:hover{
     color:#ffffff !important;
 }
+
+/* Contact links */
+#contact a{
+    color:#00e5ff;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+#contact a:hover{
+    color:white;
+    text-decoration:underline;
+}
