@@ -156,3 +156,14 @@ section h2{
     color:white;
     text-decoration:underline;
 }
+
+.contact-item a {
+    color: #00e5ff;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.contact-item a:hover {
+    text-decoration: underline;
+}
