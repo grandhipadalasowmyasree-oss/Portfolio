@@ -155,6 +155,8 @@ section h2{
     color: #00e5ff;
     text-decoration: none;
     cursor: pointer;
+    font-size: 18px;
+    
 }
 
 .contact-item a:hover {
